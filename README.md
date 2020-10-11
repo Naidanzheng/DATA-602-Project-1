@@ -12,4 +12,20 @@
 
 ---
 
-## Life Expectancy
+## Overview
+
+
+## Goals
+
+## Motivation & Background
+
+## Data
+This dataset is comprised of data from all over the world from various countries aggregated by the World Health Organization (WHO for short). The data is an aggregate of many indicators for a particular country in a particular year. In essence, the data is multiple indicators in a time series separated by country. 
+
+This dataset includes 2,938 observations, and 
+
+## Table of content
+
+## Software Requirements
+python 3.9.0
+    Packages: numPy,pandas, matplotlib, seaborn, scipy.stats, scikit-learn
