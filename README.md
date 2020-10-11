@@ -13,7 +13,7 @@
 ---
 
 ## Table of Content
-[Data](https://github.com/Naidanzheng/DATA-602-Homework-1#data) -
+[Overview](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#overview) -
 [Goals](https://github.com/Naidanzheng/DATA-602-Homework-1#model) -
 [Motivation & Background](https://github.com/Naidanzheng/DATA-602-Homework-1#conclusion) - 
 [Data](https://github.com/Naidanzheng/DATA-602-Homework-1#future) - 
@@ -35,7 +35,7 @@ This dataset is comprised of data from all over the world from various countries
 
 This dataset includes 2,938 observations, and 
 
-## Table of content
+
 
 ## Software Requirements
 python 3.9.0
