@@ -4,7 +4,7 @@
 
 ---
 
-##Repo
+## Repo
 - <b>data</b> - The raw dataset can be found on the [Kaggle website](https://www.kaggle.com/augustus0498/life-expectancy-who). 
 - <b>[DATA602 Project 1.ipynb](DATA602 Project 1.ipynb)</b> - The main Jupyter Notebook containing the models and analysis for this project.
 - <b>[presentation](presentation.pdf)</b> - The presentation for this project.
@@ -12,16 +12,17 @@
 
 ---
 
-## Overview
-
-
-## ReadME Navigation
+## Table of Content
 [Data](https://github.com/Naidanzheng/DATA-602-Homework-1#data) -
 [Goals](https://github.com/Naidanzheng/DATA-602-Homework-1#model) -
 [Motivation & Background](https://github.com/Naidanzheng/DATA-602-Homework-1#conclusion) - 
 [Data](https://github.com/Naidanzheng/DATA-602-Homework-1#future) - 
 [Table of Content](https://github.com/Naidanzheng/DATA-602-Homework-1#resource) - 
 [Software Requirements](https://github.com/Naidanzheng/DATA-602-Homework-1#resource) - 
+
+
+---
+## Overview
 
 
 ## Goals
