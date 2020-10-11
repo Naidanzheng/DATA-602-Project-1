@@ -13,12 +13,11 @@
 ---
 
 ## Table of Content
-[Overview](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#overview) -
-[Goals](https://github.com/Naidanzheng/DATA-602-Homework-1#model) -
-[Motivation & Background](https://github.com/Naidanzheng/DATA-602-Homework-1#conclusion) - 
-[Data](https://github.com/Naidanzheng/DATA-602-Homework-1#future) - 
-[Table of Content](https://github.com/Naidanzheng/DATA-602-Homework-1#resource) - 
-[Software Requirements](https://github.com/Naidanzheng/DATA-602-Homework-1#resource) - 
+- <b>[Overview](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#overview) -
+- <b>[Goals](https://github.com/Naidanzheng/DATA-602-Homework-1#model) -
+- <b>[Motivation & Background](https://github.com/Naidanzheng/DATA-602-Homework-1#conclusion) - 
+- <b>[Data](https://github.com/Naidanzheng/DATA-602-Homework-1#future) - 
+- <b>[Software Requirements](https://github.com/Naidanzheng/DATA-602-Homework-1#resource) - 
 
 
 ---
