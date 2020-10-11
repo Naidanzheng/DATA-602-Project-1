@@ -28,4 +28,5 @@ This dataset includes 2,938 observations, and
 
 ## Software Requirements
 python 3.9.0
-    Packages: numPy,pandas, matplotlib, seaborn, scipy.stats, scikit-learn
+
+Packages used: numPy,pandas, matplotlib, seaborn, scipy.stats, scikit-learn
