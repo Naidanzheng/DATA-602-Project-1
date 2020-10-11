@@ -15,7 +15,17 @@
 ## Overview
 
 
+## ReadME Navigation
+[Data](https://github.com/Naidanzheng/DATA-602-Homework-1#data) -
+[Goals](https://github.com/Naidanzheng/DATA-602-Homework-1#model) -
+[Motivation & Background](https://github.com/Naidanzheng/DATA-602-Homework-1#conclusion) - 
+[Data](https://github.com/Naidanzheng/DATA-602-Homework-1#future) - 
+[Table of Content](https://github.com/Naidanzheng/DATA-602-Homework-1#resource) - 
+[Software Requirements](https://github.com/Naidanzheng/DATA-602-Homework-1#resource) - 
+
+
 ## Goals
+The goal for this project is to search for the elements which effects life expectancy by using statistical tools such as MSE, R squared, RMSE, ect. on different regression models.
 
 ## Motivation & Background
 
