@@ -35,9 +35,10 @@ The second goal for this project is to find the best model to predict life expec
 ## Data
 This dataset is comprised of data from all over the world from various countries aggregated by the World Health Organization (WHO for short). The data is an aggregate of many indicators for a particular country in a particular year. In essence, the data is multiple indicators in a time series separated by country. 
 
-This dataset includes 2,938 observations, and 21 
+This dataset includes 2,938 observations, and 21 variables that maybe the determinations of life expectancy.
 
-This graph shows the different life expectancy in developed and developing country. The average life expectancy of developed country is 78.69 years, the average life expectacy of developing country is 67.69 years.
+This graph shows the different life expectancy in developed and developing countries. The average life expectancy of developed countries is 78.69 years, the average life expectacy of developing countries is 67.69 years. There is a large difference of min life expectancy between developed and developing countries. It may be because developing countries have better infrastructure, healthcare, welfare than developing countries.
+
 ![Status1.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Status1.png)
 
 ![Status.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/Image/Status.png)
