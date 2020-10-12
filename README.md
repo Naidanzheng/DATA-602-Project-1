@@ -51,7 +51,7 @@ This graph shows the different life expectancy in developed and developing count
 This graph shows the correlation between features.  
 ![Correlation.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/Image/Correlation.png)
 
-There is a stronge correlation relationship between 'Schooling' and 'Life Expectancy' of 0.728. This may be because education is more established and prevalent in wealthier countries.
+There is a strong correlation relationship between 'Schooling' and 'Life Expectancy' of 0.728. This may be because education is more established and prevalent in wealthier countries.
 
 Surprisingly, there is a moderate positive correlation between ‘Alcohol’ and ‘Life Expectancy’ of 0.40, it may be because only wealthier countries can afford alcohol or the consumption of alcohol is more prevalent among wealthier populations.
 
