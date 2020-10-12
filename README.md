@@ -22,6 +22,7 @@
 
 ---
 ## Overview
+The Global Health Observatory (GHO) data repository under World Health Organization (WHO) keeps track of the health status, as well as many other related factors for all countries The datasets, are made available to the public for the purpose of health data analysis. The dataset related to life expectancy, health factors for 193 countries have been collected from the same WHO data repository website and its corresponding economic data was collected from the United Nation website. Among all categories of health-related factors, only those critical factors were chosen which are more representative. It has been observed that in the past 15 years, there has been a huge development in the health sector resulting in the improvement of human mortality rates especially in the developing nations in comparison to the past 30 years. Therefore, in this project, we have considered data from the year 2000-2015 for 193 countries for further analysis. The individual data files have been merged together into a single dataset.
 
 
 ## Goals
@@ -36,7 +37,7 @@ The second goal for this project is to find the best model to predict life expec
 ## Data
 This dataset is comprised of data from all over the world from various countries aggregated by the World Health Organization. The data is an aggregate of many indicators for a particular country in a particular year. In essence, the data is multiple indicators in a time series separated by country. 
 
-This dataset includes 2,938 observations, and 21 variables that maybe the determining factors of life expectancy. The object for this project is to find the variables that affect 
+This dataset includes 2,938 observations, and 21 variables that maybe the determining factors of life expectancy. The object for this project is to find the variables that affect life expectancy and choose the best model to predict life expectancy accurately.
 
 This graph shows the different life expectancy in developed and developing countries. The average life expectancy of developed countries is 78.69 years, the average life expectacy of developing countries is 67.69 years. There is a large difference of min life expectancy between developed(69.9 years) and developing(44 years) countries. It may be because developing countries have better infrastructure, healthcare, welfare than developing countries.
 
