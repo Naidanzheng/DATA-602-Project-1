@@ -4,7 +4,7 @@
 
 ---
 
-## Repo
+## Repo Content
 - <b>Data</b> - The raw dataset can be found on the [Kaggle website](https://www.kaggle.com/augustus0498/life-expectancy-who). 
 - <b>[DATA602 Project 1.ipynb](DATA602 Project 1.ipynb)</b> - The main Jupyter Notebook containing the models and analysis for this project.
 - <b>[Presentation](Presentation.pdf)</b> - The presentation for this project.
