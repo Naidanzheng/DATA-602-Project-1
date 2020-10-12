@@ -1,4 +1,4 @@
-# Prediction of Life Expectancy (WHO)
+# Life Expectancy Prediction(WHO)
 
 #####    by <b>[Naidan Zheng](https://github.com/Naidanzheng)</b>
 
