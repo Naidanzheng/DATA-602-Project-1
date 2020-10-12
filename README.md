@@ -1,6 +1,6 @@
 # Prediction of Life Expectancy (WHO)
 
-#####    by <b>[Naidan Zheng](https://github.com/bobbyiestofjos)</b>
+#####    by <b>[Naidan Zheng](https://github.com/Naidanzheng)</b>
 
 ---
 
