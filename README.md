@@ -38,8 +38,12 @@ This dataset is comprised of data from all over the world from various countries
 This dataset includes 2,938 observations, and 21 
 
 This graph shows the different life expectancy in developed and developing country. The average life expectancy of developed country is 78.69 years, the average life expectacy of developing country is 67.69 years.
+![Status1.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Status1.png)
 
-This graph shows the correlation between features
+![Status.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/Image/Status.png)
+
+This graph shows the correlation between features.
+![Correlation.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/Image/Correlation.png)
 
 There is a stronge correlation relationship between 'Schooling' and 'Life Expectancy' of 0.728.
 
