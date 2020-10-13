@@ -34,7 +34,7 @@ The second goal for this project is to find the best model to predict life expec
 
 
 ## Motivation & Background
-Life expectancy is an educated prediction of human life. Through the comparative analysis of life expectancy, it can reflect the quality of life of a society and measure the health level of people in this country (or region). Everyone wants to have a longer life expectancy, and it can be affected by a lot of factors. Life expectancy is not only one of the important indicators to measure the health of the population, but also a comprehensive indicator to measure the level of economic and social development of a country or region. In population quality evaluation and prediction, disease burden measurement, and national economy and residents’ quality of life evaluation, life expectancy and other indicators are among the most basic research content
+Life expectancy is an educated prediction of human life. Through the comparative analysis of life expectancy, it can reflect the quality of life of a society and measure the health level of people in this country (or region). Everyone wants to have a longer life expectancy, and it can be affected by a lot of factors. Life expectancy is not only one of the important indicators to measure the health of the population, but also a comprehensive indicator to measure the level of economic and social development of a country or region. In population quality evaluation and prediction, disease burden measurement, and national economy and residents’ quality of life evaluation, life expectancy and other indicators are among the most basic research content.
 
 
 ## Data
