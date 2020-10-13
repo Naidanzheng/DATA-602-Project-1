@@ -81,8 +81,8 @@ In this project, the best model is Random Forest Regressor, because it has the h
 
 
 ## Future Work
-
-
+To derive even more accurate results, we'd like to expand the project with additional data, specifically 'Years'. Therefore, we will use the Time Series analysis to improve our model.
+Also, we can add 'gender','exercise' and 'crime rates' variables to analyze the relationships with life expectancy.
 ## Software Requirements
 <pre>
 Languages    : Python 3.9.0
