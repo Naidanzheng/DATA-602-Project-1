@@ -57,6 +57,10 @@ Surprisingly, there is a moderate positive correlation between ‘Alcohol’ and
 
 
 ## Modeling 
+From the correlation matrix, 'Schooling' and 'Income Composition' are the major positive impacts of life expectancy, and 'Adult Mortality' is the major negative impact of life expectancy. In this project, we will stay away from time series, so we choose all the variables that except 'Years' to build regression models.
+
+The five regression models that created are Linear Regression, Lasso Regression, Ridge Regression, ElasticNet Regression, and Random Forest Regressor, the way to choose the best model is to calculate their mean square errors and R^2 scores. In this project, the best model is Random Forest Regressor, because it has the highest R^2 score(0.9475), and the lowest mean square error(4.147). Therefore, we will use Rando Forest Regressor to predict life expectancy by using these given variables.
+
 
 ## Software Requirements
 <pre>
