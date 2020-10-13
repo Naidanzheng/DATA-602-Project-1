@@ -25,7 +25,7 @@
 
 ---
 ## Overview
-The Global Health Observatory (GHO) data repository under the World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries. The dataset has 22 Columns and 2938 rows which meant 20 predicting variables. All predicting variables were then divided into several broad categories:​Immunization related factors, Mortality factors, Economical factors, and Social factors. The objects of this project are to determine the critical factors which are more representative, build regression models(Linear Regression, Lasso Regression, Random Forest Regressor,etc.), and compare their mean square errors and R^2 scores to choose the best regression model to predict life expectancy accurately. 
+The Global Health Observatory (GHO) data repository under the World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries. The dataset has 22 Columns and 2938 rows which meant 20 predicting variables. All predicting variables were then divided into several broad categories:Immunization related factors, Mortality factors, Economical factors, and Social factors. The objects of this project are to determine the critical factors which are more representative, build regression models(Linear Regression, Lasso Regression, Random Forest Regressor,etc.), and compare their mean square errors and R^2 scores to choose the best regression model to predict life expectancy accurately. 
 ![life.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/life.png)
 
 
@@ -94,3 +94,6 @@ Libraries    : numPy,pandas, matplotlib, seaborn, scipy.stats, scikit-learn,warn
 Duration     : October 2020
 Last Update  : 10.12.2020
 </pre>
+
+## Resource
+- <b>[7 types regression technique]https://www.analyticssteps.com/blogs/7-types-regression-technique-you-should-know-machine-learning
