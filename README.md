@@ -96,4 +96,4 @@ Last Update  : 10.12.2020
 </pre>
 
 ## Resource
-- <b>[7 types regression technique]https://www.analyticssteps.com/blogs/7-types-regression-technique-you-should-know-machine-learning
+- <b>[7 types regression technique](https://www.analyticssteps.com/blogs/7-types-regression-technique-you-should-know-machine-learning)
