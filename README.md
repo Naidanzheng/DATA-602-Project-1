@@ -77,12 +77,12 @@ The five regression models that created are Linear Regression, Lasso Regression,
 Data is more concentrated in the Random Forest Regressor Model.
 ![rf.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Image/rf.png)
 
-In this project, the best model is Random Forest Regressor, because it has the highest R^2 score(0.9475), and the lowest mean square error(4.147). Therefore, we will use Rando Forest Regressor to predict life expectancy by using these given variables.
+In this project, the best model is Random Forest Regressor, because it has the highest R^2 score(0.9475), and the lowest mean square error(4.147). Therefore, we will use Random Forest Regressor to predict life expectancy by using these given variables.
 
 ## Conclusion
 Life expectancy is determined by immunization related factors, mortality factors, economical factors, and social factors. 'Schooling' and 'Income Composition' are the major positive impacts of life expectancy, and 'Adult Mortality' is the major negative impact of life expectancy.
 
-In this project, the best model is Random Forest Regressor, because it has the highest R^2 score(0.9475), and the lowest mean square error(4.147). Therefore, we will use Rando Forest Regressor to predict life expectancy by using these given variables.
+In this project, the best model is Random Forest Regressor, because it has the highest R^2 score(0.9475), and the lowest mean square error(4.147). Therefore, we will use Random Forest Regressor to predict life expectancy by using these given variables.
 
 ## Future Work
 To derive even more accurate results, we'd like to expand the project with additional data, specifically 'Years'. Therefore, we will use the Time Series analysis to improve our model.
