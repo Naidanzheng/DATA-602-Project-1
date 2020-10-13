@@ -22,7 +22,7 @@
 
 ---
 ## Overview
-The Global Health Observatory (GHO) data repository under the World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries. The dataset has 22 Columns and 2938 rows which meant 20 predicting variables. All predicting variables were then divided into several broad categories:​Immunization related factors, Mortality factors, Economical factors, and Social factors. The objects of this project are to determine the critical factors which are more representative, build regression models(Linear Regression, Lasso Regression, Random Forest Regressor,etc.), and compare their mean square errors and R^2 scores to choose the best model to predict life expectancy accurately. 
+The Global Health Observatory (GHO) data repository under the World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries. The dataset has 22 Columns and 2938 rows which meant 20 predicting variables. All predicting variables were then divided into several broad categories:​Immunization related factors, Mortality factors, Economical factors, and Social factors. The objects of this project are to determine the critical factors which are more representative, build regression models(Linear Regression, Lasso Regression, Random Forest Regressor,etc.), and compare their mean square errors and R^2 scores to choose the best regression model to predict life expectancy accurately. 
 ![life.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/life.png)
 
 
@@ -32,6 +32,12 @@ The first goal for this project is to search for the elements which effects life
 
 The second goal for this project is to find the best regression model to predict life expectancy.
 
+The third goal for this project is to find the answer for research questions.
+
+## Research Questions
+    1: What are the major variables affecting the life expectancy?
+    2: What is the impact of schooling on the lifespan of humans?
+    3: What is the impact of Immunization coverage on life Expectancy?
 
 ## Motivation & Background
 Life expectancy is an educated prediction of human life. Through the comparative analysis of life expectancy, it can reflect the quality of life of a society and measure the health level of people in this country (or region). Everyone wants to have a longer life expectancy, and it can be affected by a lot of factors. Life expectancy is not only one of the important indicators to measure the health of the population, but also a comprehensive indicator to measure the level of economic and social development of a country or region. In population quality evaluation and prediction, disease burden measurement, and national economy and residents’ quality of life evaluation, life expectancy and other indicators are among the most basic research content.
