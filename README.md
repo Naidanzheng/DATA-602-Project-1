@@ -17,6 +17,8 @@
 - <b>[Goals](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#goals) 
 - <b>[Motivation & Background](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#motivation--background) 
 - <b>[Data](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#data) 
+- <b>[Modeling](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#modeling) 
+- <b>[Conclusion](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#sconclusion) 
 - <b>[Software Requirements](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#software-requirements) 
 
 
@@ -74,7 +76,7 @@ Data is more concentrated in the Random Forest Regressor Model.
 
 In this project, the best model is Random Forest Regressor, because it has the highest R^2 score(0.9475), and the lowest mean square error(4.147). Therefore, we will use Rando Forest Regressor to predict life expectancy by using these given variables.
 
-
+## Conclusion
 
 ## Software Requirements
 <pre>
