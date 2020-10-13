@@ -34,7 +34,7 @@ The second goal for this project is to find the best regression model to predict
 
 The third goal for this project is to find the answer for research questions.
 
-## Research Questions
+### Research Questions
     1: What are the major variables affecting the life expectancy?
     2: What is the impact of schooling on the lifespan of humans?
     3: What is the impact of Immunization coverage on life Expectancy?
