@@ -68,7 +68,7 @@ Surprisingly, there is a moderate positive correlation between ‘Alcohol’ and
 
 
 ## Modeling 
-From the correlation matrix, 'Schooling' and 'Income Composition' are the major positive impacts of life expectancy, and 'Adult Mortality' is the major negative impact of life expectancy. In this project, we will stay away from time series, so we choose all the variables that except 'Years' to build regression models.
+From the correlation matrix, 'Schooling' and 'Income Composition' are the major positive impacts of life expectancy, and 'Adult Mortality' is the major negative impact of life expectancy. In this project, we will stay away from Time Series Analysis, so we choose all the variables that except 'Years' to build regression models.
 
 The five regression models that created are Linear Regression, Lasso Regression, Ridge Regression, ElasticNet Regression, and Random Forest Regressor, the way to choose the best model is to calculate their mean square errors and R^2 scores.
 ![r_2.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Image/r_2.png)
