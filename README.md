@@ -30,7 +30,7 @@ The Global Health Observatory (GHO) data repository under the World Health Organ
 ## Goals
 The first goal for this project is to search for the elements which effects life expectancy by using statistical tools such as MSE, R squared, RMSE, ect. on different regression models.
 
-The second goal for this project is to find the best model to predict life expectancy by using regression.
+The second goal for this project is to find the best regression model to predict life expectancy.
 
 
 ## Motivation & Background
