@@ -18,7 +18,7 @@
 - <b>[Motivation & Background](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#motivation--background) 
 - <b>[Data](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#data) 
 - <b>[Modeling](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#modeling) 
-- <b>[Conclusion](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#sconclusion) 
+- <b>[Conclusion](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#conclusion) 
 - <b>[Software Requirements](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#software-requirements) 
 
 
