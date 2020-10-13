@@ -8,7 +8,7 @@
 - <b>Data</b> - The raw dataset can be found on the [Kaggle website](https://www.kaggle.com/augustus0498/life-expectancy-who). 
 - <b>[images](https://github.com/Naidanzheng/DATA-602-Project-1/tree/main/Image)</b> - Various plots and images used in the documents found in this repo.
 - <b>[DATA602 Project 1.ipynb](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/DATA602%20Project%201.ipynb)</b> - The main Jupyter Notebook containing the models and analysis for this project.
-- <b>[Presentation](Presentation.pdf)</b> - The presentation for this project.
+- <b>[Presentation1](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Presentation1.pptx)</b> - The presentation for this project.
 - <b>[README.md](README.md)</b> - A description of the project goals, process, and results.
 
 ---
