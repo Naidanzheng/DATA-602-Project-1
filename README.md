@@ -22,7 +22,7 @@
 
 ---
 ## Overview
-The Global Health Observatory (GHO) data repository under the World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries. This object of this project is to choose the critical factors which are more representative, build models by using Regression, and predict life expectancy accurately.
+The Global Health Observatory (GHO) data repository under the World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries. This objects of this project are to determine the critical factors which are more representative, build regression models, and choose the best model to predict life expectancy accurately.
 ![life.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/life.png)
 
 
