@@ -21,6 +21,7 @@
 - <b>[Conclusion](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#conclusion) 
 - <b>[Future Work](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#future-work) 
 - <b>[Software Requirements](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#software-requirements) 
+- <b>[Resource](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#resource) 
 
 
 ---
