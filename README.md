@@ -54,12 +54,12 @@ The dataset has 22 Columns and 2938 rows which meant 20 predicting variables. Al
 
 This graph shows the different life expectancy in developed and developing countries. The average life expectancy of developed countries is 78.69 years, the average life expectacy of developing countries is 67.69 years. There is a large difference of min life expectancy between developed(69.9 years) and developing(44 years) countries. It may be because developing countries have better infrastructure, healthcare, welfare than developing countries.
 
-![Status1.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Status1.png)
+![Status1.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Image/Status1.png)
 
-![Status.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/Image/Status.png)
+![Status.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Image/Status.png)
 
 This graph shows the correlation between features. These variables will be used to create models to predict life expectancy.
-![Correlation.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/Image/Correlation.png)
+![Correlation.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Image/Correlation.png)
 
 There is a strong correlation relationship between 'Schooling' and 'Life Expectancy' of 0.728. This may be because education is more established and prevalent in wealthier countries.
 
@@ -70,11 +70,11 @@ Surprisingly, there is a moderate positive correlation between ‘Alcohol’ and
 From the correlation matrix, 'Schooling' and 'Income Composition' are the major positive impacts of life expectancy, and 'Adult Mortality' is the major negative impact of life expectancy. In this project, we will stay away from time series, so we choose all the variables that except 'Years' to build regression models.
 
 The five regression models that created are Linear Regression, Lasso Regression, Ridge Regression, ElasticNet Regression, and Random Forest Regressor, the way to choose the best model is to calculate their mean square errors and R^2 scores.
-![r_2.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/r_2.png)
-![mse.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/mse.png)
+![r_2.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Image/r_2.png)
+![mse.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Image/mse.png)
 
 Data is more concentrated in the Random Forest Regressor Model.
-![rf.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/rf.png)
+![rf.png](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Image/rf.png)
 
 In this project, the best model is Random Forest Regressor, because it has the highest R^2 score(0.9475), and the lowest mean square error(4.147). Therefore, we will use Rando Forest Regressor to predict life expectancy by using these given variables.
 
