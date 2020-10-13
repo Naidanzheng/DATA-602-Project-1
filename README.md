@@ -97,3 +97,4 @@ Last Update  : 10.12.2020
 
 ## Resource
 - <b>[7 types regression technique](https://www.analyticssteps.com/blogs/7-types-regression-technique-you-should-know-machine-learning)
+- <b>[Machine Learning Algorithms in Python](https://medium.com/towards-artificial-intelligence/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
