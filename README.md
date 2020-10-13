@@ -59,6 +59,13 @@ Surprisingly, there is a moderate positive correlation between ‘Alcohol’ and
 ## Modeling 
 
 ## Software Requirements
-python 3.9.0
+<pre>
+Languages    : Python 3.9.0
+Tools/IDE    : Anaconda, Colab
+Libraries    : numPy,pandas, matplotlib, seaborn, scipy.stats, scikit-learn,warning
+</pre>
 
-Packages used: numPy,pandas, matplotlib, seaborn, scipy.stats, scikit-learn,warning
+<pre>
+Duration     : October 2020
+Last Update  : 10.12.2020
+</pre>
